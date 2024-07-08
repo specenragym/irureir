@@ -1,0 +1,1 @@
+Hours = Minutes[:-1]
